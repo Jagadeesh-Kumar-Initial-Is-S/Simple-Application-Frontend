@@ -8,9 +8,7 @@ import Advertisement from './Advertisement';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Advertisement />
     <App />
-    <Advertisement />
   </React.StrictMode>
 );
 
